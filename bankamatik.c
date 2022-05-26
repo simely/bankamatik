@@ -5,7 +5,7 @@ int main () {
 	
 	int parola,islem,tutar,bakiye = 1000,parola2 = 1234;
 	
-	printf("--- TTEN BANK HOS GELDINIZ ---\n\n");
+	printf("--- BANKAMATIGE HOS GELDINIZ ---\n\n");
 	
 	while (parola != parola2) {
 		
